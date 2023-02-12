@@ -1,3 +1,3 @@
 # portfolio_website
-##Portfolio Website
-### Techstack: React, Scss, Sanity
+Portfolio Website
+ Techstack: React, Scss, Sanity
